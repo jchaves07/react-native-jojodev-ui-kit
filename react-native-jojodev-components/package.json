@@ -1,6 +1,6 @@
 {
   "name": "react-native-jojodev-ui-kit",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "React native ui variety components ",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,10 @@
   ],
   "author": "Jorge Chaves Ulate (Jojodev)",
   "license": "MIT",
+  "peerDependencies": {
+    "react-native": "0.60.0",
+    "react-native-vector-icons": "^6.6.0"
+  },
   "bugs": {
     "url": "https://github.com/jchaves07/react-native-jojodev-ui-kit/issues"
   },
