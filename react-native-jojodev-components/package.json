@@ -1,0 +1,24 @@
+{
+  "name": "react-native-jojodev-ui-kit",
+  "version": "1.0.0",
+  "description": "React native ui variety components ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchaves07/react-native-jojodev-ui-kit.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ui-kit"
+  ],
+  "author": "Jorge Chaves Ulate (Jojodev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jchaves07/react-native-jojodev-ui-kit/issues"
+  },
+  "homepage": "https://github.com/jchaves07/react-native-jojodev-ui-kit#readme"
+}
